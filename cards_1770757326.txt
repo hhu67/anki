@@ -1,0 +1,20 @@
+abundant;обильный
+adverse;неблагоприятный
+coherent;связный
+comprehensive;исчерпывающий
+concur;соглашаться
+deteriorate;ухудшаться
+discrepancy;расхождение
+eradicate;искоренять
+fluctuate;колебаться
+imminent;надвигающийся
+inadvertently;невольно
+integrity;честность
+novel;новый (необычный)
+profound;глубокий
+robust;надёжный
+subsequent;последующий
+subtle;тонкий
+sufficient;достаточный
+versatile;разносторонний
+warrant;обосновывать
